@@ -1,9 +1,10 @@
 // Your First C++ Program
 
 #include <iostream>
-using namespace std
-int; main() {
+
+main() {
     std::cout << "Welcome to ASYS";
-    
+    std::cout << "Please select a type of the installation";
+        
    
 }
